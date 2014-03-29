@@ -1,0 +1,14 @@
+qsub coev_5000_0.000001.bash
+qsub coev_5000_0.00001.bash
+qsub coev_5000_0.0001.bash
+qsub coev_5000_0.001.bash
+qsub coev_5000_0.01.bash
+qsub coev_5000_0.1.bash
+qsub coev_5000_1.bash
+qsub hetero_5000_0.000001.bash
+qsub hetero_5000_0.00001.bash
+qsub hetero_5000_0.0001.bash
+qsub hetero_5000_0.001.bash
+qsub hetero_5000_0.01.bash
+qsub hetero_5000_0.1.bash
+qsub hetero_5000_1.bash

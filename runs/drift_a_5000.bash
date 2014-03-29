@@ -1,0 +1,11 @@
+#!/bin/bash -l
+
+#PBS -l nodes=1:ppn=1
+
+#PBS -o drift_b_5000.out
+#PBS -N drift_b_5000
+
+
+module load python/2.7.2 
+
+python2.7 /work/tdelcour/drift_hydra_5000.py
